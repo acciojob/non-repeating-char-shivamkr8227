@@ -12,4 +12,4 @@ function firstnrc(str)
  
 let inputStr=prompt("Enter a string");
 let result=firstnrc(inputStr);
-alert(result);
+alert(result? result : null);
