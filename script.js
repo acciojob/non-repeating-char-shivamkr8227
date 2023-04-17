@@ -1,9 +1,9 @@
 //your JS code here. If required.
 function firstnrc(str)
 	{
-		for(let i=0; i<atr.length ; i++)
+		for(let i=0; i<str.length ; i++)
 		{
-			if(str,indexof(str[i])===str.lastindexof(str[i]))
+			if(str.indexOf(str[i])===str.lastIndexOf(str[i]))
 			{
 				return str[i];
 			}
